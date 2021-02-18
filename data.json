@@ -1,6 +1,7 @@
 {
- 
-   "1": {"name": "Elon Musk", "wealth": 1480000000, "age":45},
-   "2": {"name": "Jeff Besos", "wealth": 1280000000,"age":50},
-   "3": {"name": "Bill Gates", "wealth": 1080000000,"age":55}
+    "people": {
+        "1": {"name": "Elon Musk", "wealth": 1480000000, "age": 45},
+        "2": {"name": "Jeff Besos", "wealth": 1280000000, "age": 50},
+        "3": {"name": "Bill Gates", "wealth": 1080000000, "age": 55}
+    }
 }
